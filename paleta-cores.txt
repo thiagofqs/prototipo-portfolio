@@ -1,0 +1,8 @@
+Cor de Background:
+#121212 | #000957
+
+Cores de Texto:
+#ffffff | #14279B | #3D56B2 (hover) | #121212 | #EBE645
+
+Botões:
+#344CB7 | #EBE645
